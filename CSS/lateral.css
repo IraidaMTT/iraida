@@ -1,0 +1,12 @@
+aside{
+    padding: 15px;
+    text-align: center;
+    font-size: 12px; 
+}
+aside a{
+  color: black;
+  margin-bottom: 30px;
+}
+aside p{
+    margin: 0;   
+}
